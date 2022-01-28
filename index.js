@@ -42,32 +42,4 @@ padlock.addEventListener('click', () => {
         padlock.className = 'padlock padlock--clicked';
     }
 })
-// const padlock = document.querySelector(".padlock");
 
-// const text = document.querySelector(".text");
-
-// padlock.addEventListener("mouseeneter", function( event ) {
-//     // const showText = document.querySelector(".text");
-    
-
-// });
-
-// // test.addEventListener("mouseover", function( event ) {
-// //   // highlight the mouseover target
-
-// // });
-
-// // e.onmouseover = function() {
-// //   document.getElementById('text').style.display = 'block';
-// // }
-
-// // e.onmouseout = function() {
-// //   document.getElementById('text').style.display = 'none';
-// // }  
-
-
-
-
-//     function displayQuote() {
-//         document.querySelector(".padlock").textContent = ".text";
-//     }
